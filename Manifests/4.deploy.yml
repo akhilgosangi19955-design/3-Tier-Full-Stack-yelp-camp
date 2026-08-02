@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: ://amazonaws.com
+          image: 911287867662.dkr.ecr.us-east-1.amazonaws.com/myvenurepo:latest
           ports:
             - containerPort: 3000
 
